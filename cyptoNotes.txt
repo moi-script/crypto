@@ -1,0 +1,14 @@
+// Crypto is commonly use of security, file compress, tokens, data integrity and so on,
+
+
+-- This introduce the crypto module
+
+-- This might be overwhelming however, it was the easiest since it was a built in function that return output
+
+
+-- crypt consist of different applications
+-- Hashing 
+-- Encryption and Decryption
+-- Digital Signatures & Public key Encryption
+-- Tokens, Authenticate, Randomness
+-- Secure file data handling
